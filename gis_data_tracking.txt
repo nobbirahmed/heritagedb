@@ -29,3 +29,9 @@ Important:
 StreetsGulshanBanani, SurroundingStreets
 -----------------
 No modification of other databases
+
+3/31/17 -----
+
+* created new folder projects - to include various pet projects
+- added BD/BDGIS_Data/Projects/GulshanBananiTito as a project folder.
+- moved Dhaka2017.gdb to this newly created folder.
