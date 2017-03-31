@@ -1,13 +1,30 @@
 Start of tracking: March 28, 2017
 
+
+
 Master location: \\....\BD\BDGIS_data\
-Created new geodatabase: Dhaka2017.gdb
-Created Feature Dataset: ExtentFishnets
-Added 3 FCs: ExtentFishnet35x4, ExtentPoly, WorkingFishnet (5 times 7)
+
+
+Created new geodatabase:
+ Dhaka2017.gdb
+
+
+Created Feature Dataset:
+ ExtentFishnets
+
+
+Added 3 FCs:
+ ExtentFishnet35x4,
+ ExtentPoly,
+ WorkingFishnet (5 times 7)
 Saved 5x7 fishnet layer with symbology as DhakaStreetsExtent2_WebM.lyr
+
+
 
 Created new data in Dhaka2017.gdb
 - GulshanBananiBnd, GulshanBananiExtendedExt
+
+
 Important:
 StreetsGulshanBanani, SurroundingStreets
 -----------------
